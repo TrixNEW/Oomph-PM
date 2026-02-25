@@ -32,7 +32,7 @@ class OomphViolationEvent extends PlayerEvent {
 		return $this->violations;
 	}
 
-    public function getExtraData(): float {
+    public function getExtraData(): string {
         return $this->extraData;
     }
 }
