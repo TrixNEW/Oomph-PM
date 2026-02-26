@@ -1,4 +1,3 @@
-composer.lock
-.idea
-/script/
 /vendor/
+/.idea/
+composer.lock
